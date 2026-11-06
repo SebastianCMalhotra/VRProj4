@@ -1,0 +1,66 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void VRJump_Update_m5DBD04D3F79A516DD45888049A9BAD7515D220BF (void);
+extern void VRJump__ctor_m2BF5799EC596255C65F0142BD88D8CADFD77367B (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+extern void FinishTrigger_OnTriggerEnter_mC9B420F5AF84898598993A5A026E606B17E83A98 (void);
+extern void FinishTrigger__ctor_m0D31934B554327173E7C71978DA94C926127BEBF (void);
+extern void goomb_Awake_m7EEE3DBF0D64D7B6B9B437705AB6812A37C07463 (void);
+extern void goomb_FixedUpdate_m3454F00B60E47FCD46F8FE2E7712053BE73E67CC (void);
+extern void goomb_OnTriggerEnter_m01569F2B7F930E79A957D7BCB57B0B7C0B83537A (void);
+extern void goomb__ctor_mB08845698F377683D00CA369B858F75A0FFF1B37 (void);
+static Il2CppMethodPointer s_methodPointers[10] = 
+{
+	VRJump_Update_m5DBD04D3F79A516DD45888049A9BAD7515D220BF,
+	VRJump__ctor_m2BF5799EC596255C65F0142BD88D8CADFD77367B,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+	FinishTrigger_OnTriggerEnter_mC9B420F5AF84898598993A5A026E606B17E83A98,
+	FinishTrigger__ctor_m0D31934B554327173E7C71978DA94C926127BEBF,
+	goomb_Awake_m7EEE3DBF0D64D7B6B9B437705AB6812A37C07463,
+	goomb_FixedUpdate_m3454F00B60E47FCD46F8FE2E7712053BE73E67CC,
+	goomb_OnTriggerEnter_m01569F2B7F930E79A957D7BCB57B0B7C0B83537A,
+	goomb__ctor_mB08845698F377683D00CA369B858F75A0FFF1B37,
+};
+static const int32_t s_InvokerIndices[10] = 
+{
+	16587,
+	16587,
+	16587,
+	16587,
+	12339,
+	16587,
+	16587,
+	16587,
+	12339,
+	16587,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	10,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
